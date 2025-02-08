@@ -3831,5 +3831,12 @@
   "image": "https://typora.io/img/icon_256x256.png",
   "link": "https://typora.io/",
   "description": "A minimal markdown editor and reader equipped with file conversion feature."
+},
+{
+  "productName": "Pyrexp",
+  "category": "tools",
+  "image": "https://pythonium.net/pythonium.png",
+  "description": "Pyrexp is an online tool to visualize & test Regular Expressions.",
+  "link": "https://pythonium.net/regex"
 }
 ]
